@@ -50,9 +50,10 @@
 #cap{
     padding: 10px;
 }
-#smiley{
-    border: 1px solid black;
-    text-align: center;
+#netikett img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 #netikettek{
     font-size: 1.25em;
